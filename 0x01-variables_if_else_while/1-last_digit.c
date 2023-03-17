@@ -20,17 +20,17 @@ int main(void)
 	last_char = n % 10;
 
 	/* your code goes there */
-	if (last_char < 6)
+	if (last_char == 0)
 	{
-		printf("Last digit of %d is %d and is less than 6 and not 0 \n", n, last_char);
+		printf("Last digit of %d is %d and is 0\n", n, last_char);
 	}
 	else if (last_char > 5)
 	{
 		printf("Last digit of %d is %d and is greater than 5\n", n, last_char);
 	}
-	else if (last_char == 0)
+	else 
 	{
-		printf("Last digit of %d is %d and is 0\n", n, last_char);
+		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, last_char);
 	}
 	return (0);
 }
