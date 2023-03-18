@@ -12,7 +12,7 @@ int main(void)
 
 	/*for loop to prints numbers below 10*/
 	for (num = 0; num < 10; num++)
-		putchar(num);
+		printf("%d", num);
 	putchar('\n');
 	return (0);
 }
