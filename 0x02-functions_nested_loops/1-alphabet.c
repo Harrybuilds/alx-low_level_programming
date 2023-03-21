@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main - start of program
- * Description: prints a to z using _printchar
+ * print_alphabet - start of program
+ * Description :  prints a to z using _printchar
  * Return: returns 0
  */
 
@@ -14,5 +14,4 @@ void print_alphabet(void)
 		_putchar(let);
 	}
 	_putchar('\n');
-       
 }
