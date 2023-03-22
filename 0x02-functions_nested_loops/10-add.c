@@ -12,5 +12,5 @@ int add(int n, int m)
 
 	result = m + n;
 
-	return (result8);
+	return (result);
 }
