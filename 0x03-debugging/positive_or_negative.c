@@ -3,8 +3,8 @@
 
 /* betty style doc for function main goes there */
 /**
- *main - start of all c programs
- *Return: 0 shows program ran successfully
+ *positive_or_negative - start of program
+ *@n: the number passed to the  program
 */
 void positive_or_negative(int n)
 {
