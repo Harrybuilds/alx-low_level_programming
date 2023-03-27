@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *puts - function to print character and a new line
+ *_puts - function to print character and a new line
  *@str: variable parameter holding character to be printed
  */
 
