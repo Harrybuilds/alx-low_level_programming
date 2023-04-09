@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 /**
  *main - starting point of program execution
  *@argc: command line argument counter
