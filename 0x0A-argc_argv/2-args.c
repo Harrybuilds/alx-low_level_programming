@@ -6,7 +6,7 @@
  *@argv: command line string stored in array
  *Return: return value after program execution
  */
-int main(int argc __attribute__((unused)),char *argv[])
+int main(int argc __attribute__((unused)), char *argv[])
 {
 	int i = 1;
 
@@ -18,5 +18,5 @@ int main(int argc __attribute__((unused)),char *argv[])
 			i++;
 		}
 	}
-	return (0);
+c	return (0);
 }
