@@ -18,5 +18,5 @@ int main(int argc __attribute__((unused)), char *argv[])
 			i++;
 		}
 	}
-c	return (0);
+	return (0);
 }
