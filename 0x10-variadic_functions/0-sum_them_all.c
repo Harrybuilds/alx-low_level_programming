@@ -15,11 +15,13 @@ int sum_them_all(const unsigned int n, ...)
 
 	if (n == 0)
 		return (0);
-
-	while (count < n)
+	else
 	{
-		sum += va_arg(numbers, int);
-		count++;
+		while (count < n)
+		{
+			sum += va_arg(numbers, int);
+			count++;
+		}
 	}
 	va_end(numbers);
 
