@@ -25,7 +25,7 @@ void print_all(const char * const format, ...)
 			case 's':
 				srt = va_arg(printer, char *);
 				if (!srt)
-					srt = "(nil");
+					srt = "(nil)";
 				printf("%s%s", sep, srt);
 				break;
 			case 'i':
