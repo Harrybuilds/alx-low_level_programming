@@ -1,0 +1,1 @@
+Readmefile for bit manipulation
