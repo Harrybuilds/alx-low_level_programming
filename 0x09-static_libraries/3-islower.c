@@ -1,4 +1,0 @@
- _islower(int c)
- {
-	 return (0);
- }
