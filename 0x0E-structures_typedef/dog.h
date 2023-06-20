@@ -3,6 +3,13 @@
 
 #include <stdlib.h>
 
+/**
+ * struct dog - stucture declaration for dog type
+ * @name: member of struct dog representing name
+ * @age: member of struct dog representing age
+ * @owner: member of struct dog representing owner
+ */
+
 struct dog
 {
 	char *name;
