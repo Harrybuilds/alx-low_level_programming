@@ -35,17 +35,18 @@ dog_t *new_dog(char *name, float age, char *owner)
 	}
 
 
-	dog->name = strcpy(dog->name, name);
+	dog->name = _strcpy(dog->name, name);
 
-	dog->owner = strcpy(dog->owner, owner);
+	dog->owner = _strcpy(dog->owner, owner);
 	dog->age = age;
 
 	return (dog);
 }
 
+
 /**
- * _strlen - counts length of string
- * @s: string to be counted
+ * _strlen - function to count the length of string
+ * @s: the string length to be counted
  * Return: integer value representing length of string
  */
 
@@ -57,4 +58,25 @@ int _strlen(char *s)
 		i++;
 
 	return (i);
+}
+
+/**
+*_strcpy - function to copy src string into dest string
+*@dest: destination to which string is copied to
+*@src: source from which string is copied from
+*Return: destination string is returned
+*/
+
+
+char *_strcpy(char *dest, char *src)
+{
+	int i = 0;
+
+	while (src[i])
+	{
+		dest[i] = src[i];
+		i++;
+	}
+
+	return (dest);
 }
