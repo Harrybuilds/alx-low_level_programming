@@ -17,9 +17,44 @@ dog_t *new_dog(char *name, float age, char *owner)
 	if (dog == NULL)
 		return (NULL);
 
-	dog->name = name;
-	dog->owner = owner;
+	dog->name = malloc(sizeof(char) * _strlen(name));
+
+	if (!dog->name)
+	{
+		free(dog);
+		return (NULL);
+	}
+
+	dog->owner = malloc(sizeof(char) * _strlen(owner));
+
+	if (!dog->owner)
+	{
+		free(dog->name);
+		free(dog);
+		return (NULL);
+	}
+
+
+	dog->name = strcpy(dog->name, name);
+
+	dog->owner = strcpy(dog->owner, owner);
 	dog->age = age;
 
 	return (dog);
+}
+
+/**
+ * _strlen - counts length of string
+ * @s: string to be counted
+ * Return: integer value representing length of string
+ */
+
+int _strlen(char *s)
+{
+	int i = 0;
+
+	while (s[i])
+		i++;
+
+	return (i);
 }
