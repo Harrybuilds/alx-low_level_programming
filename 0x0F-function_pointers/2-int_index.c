@@ -15,13 +15,16 @@ int int_index(int *array, int size, int (*cmp)(int))
 	if (size < 1)
 		return (-1);
 
-	i = 0;
-	while (i < size)
+	if (array && cmp)
 	{
-		holder = cmp(array[i]);
-		if (holder != 0)
-			return (i);
-		i++;
+		i = 0;
+		while (i < size)
+		{
+			holder = cmp(array[i]);
+			if (holder != 0)
+				return (i);
+			i++;
+		}
 	}
 
 	return (-1);/*will onbe be if all elements evaluate to false*/
