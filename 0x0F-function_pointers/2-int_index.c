@@ -20,12 +20,9 @@ int int_index(int *array, int size, int (*cmp)(int))
 	{
 		holder = cmp(array[i]);
 		if (holder != 0)
-			break;
-		else if (holder == 0)
-			i++;
+			return (i);
+		i++;
 	}
 
-	if (holder == 0)
-		return (-1);
-	return (i);
+	return (-1);/*will onbe be if all elements evaluate to false*/
 }
