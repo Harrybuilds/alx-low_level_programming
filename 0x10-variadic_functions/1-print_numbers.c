@@ -9,16 +9,17 @@
  *Return: does return anything
  */
 
- void print_numbers(const char *separator, const unsigned int n, ...)
+void print_numbers(const char *separator, const unsigned int n, ...)
 {
 	unsigned int i;
 	va_list args;
+
 	va_start(args, n);
 
 	if (separator == NULL)
 	{
 		i = 0;
-		while (i < n)				
+		while (i < n)
 		{
 			printf("%d", va_arg(args, int));
 			i++;
@@ -26,9 +27,8 @@
 	}
 	else
 	{
-
 		i = 0;
-		while(i < n)
+		while (i < n)
 		{
 			printf("%d%s", va_arg(args, int), separator);
 			i++;
