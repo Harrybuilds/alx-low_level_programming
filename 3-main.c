@@ -11,7 +11,7 @@
 
 int main(argc, argv)
 {
-    int a, b, *ptr, result;
+    int a, b, (*fun_ptr)(int x, int y), result;
 
     if (argc != 4)
     {
@@ -29,15 +29,15 @@ int main(argc, argv)
     a = atoi(argv[1]);
     b = atoi(argv[3]);
 
-    ptr = get_op_func(argv[2])(a,  b);
+    fun_ptr = get_op_func(argv[2])(a,  b);
 
-    if (ptr == NULL)
+    if (fun_ptr == NULL)
     {
         printf("Error\n");
         exit(98);
     }
 
-    result = ptr(a,b);
+    result = fun_ptr(a,b);
 
     printf("%d\n", result);
 
