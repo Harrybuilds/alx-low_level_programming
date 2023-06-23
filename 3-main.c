@@ -1,6 +1,4 @@
 #include "3-calc.h"
-#include "3-op_functions.c"
-#include "3-get_op_func.c"
 
 /**
  *main - simple calculator
@@ -9,37 +7,35 @@
  *Return: result of calculation if valid operation is passed else error
 */
 
-int main(argc, argv)
+int main(int argc, char *argv[])
 {
-    int a, b, (*fun_ptr)(int x, int y), result;
+	int a, b, (*fun_ptr)(int x, int y), result;
 
-    if (argc != 4)
-    {
-        printf("Error\n");
-        exit(98);
-    }
-    
+	if (argc != 4)
+	{
+		printf("Error\n");
+		exit(98);
+	}
 
-    if (argv[2] == ops[3]->op && b == 0 || argv[2] == ops[4]->op && b == 0 )
-    {
-        printf("Error\n");
-        exit(100);
-    }
+	if (argv[2] == "/" && b == 0 || argv[2] == "%" && b == 0)
+	{
+		printf("Error\n");
+		exit(100);
+	}
 
-    a = atoi(argv[1]);
-    b = atoi(argv[3]);
+	a = atoi(argv[1]);
+	b = atoi(argv[3]);
 
-    fun_ptr = get_op_func(argv[2])(a,  b);
 
-    if (fun_ptr == NULL)
-    {
-        printf("Error\n");
-        exit(98);
-    }
+	fun_ptr = get_op_func(argv[2]);
 
-    result = fun_ptr(a,b);
+	if (fun_ptr == NULL)
+	{
+		printf("Error\n");
+		exit(99);
+	}
 
-    printf("%d\n", result);
+	printf("%d\n", fun_ptr(a, b));
 
-    return (0);
+	return (0);
 }
