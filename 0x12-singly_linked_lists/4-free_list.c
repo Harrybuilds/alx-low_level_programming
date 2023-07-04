@@ -25,6 +25,7 @@ void free_list(list_t *head)
 		}
 		else
 		{
+			free(head->str);
 			free(head);
 		}
 	}
