@@ -2,10 +2,10 @@
 
 /**
  *add_nodeint - function to add a node to the first node
- *@h: address of the pointer pointing to the first node
+ *@head: address of the pointer pointing to the first node
  *@n: data to be stored in the new node
  *
- *Return: address to the node if successful else NULL  
+ *Return: address to the node if successful else NULL
  */
 
 listint_t *add_nodeint(listint_t **head, const int n)
