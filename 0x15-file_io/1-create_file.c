@@ -11,7 +11,7 @@
 int create_file(const char *filename, char *text_content)
 {
 	mode_t mode;
-	/*size_t strlength, n;*/
+	size_t len, n;
 	int r;
 	char *str;
 	FILE *file;
@@ -40,9 +40,20 @@ int create_file(const char *filename, char *text_content)
  */
 
 
-	dprintf(fileno(file), "%s", str);
+	if (str != NULL)
+	{
+		len = strlen(str);
+		n = dprintf(fileno(file), "%s", str);
+		if (n != len)
+		{
+			fclose(file);
+			return (-1);
+		}
+	}
+			
+/**	dprintf(fileno(file), "%s", str);
 	fclose(file);
-
+*/
 	
 	/*setting file permission for file owner*/
 	mode = S_IRUSR | S_IWUSR;
