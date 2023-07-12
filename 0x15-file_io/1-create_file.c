@@ -38,6 +38,12 @@ int create_file(const char *filename, char *text_content)
  *	fclose(file);
  *>>>>>>> parent of 12f0a02 (correction on task 1 of file i/o in c)
  */
+
+
+	dprintf(fileno(file), "%s", str);
+	fclose(file);
+
+	
 	/*setting file permission for file owner*/
 	mode = S_IRUSR | S_IWUSR;
 	r = chmod(filename, mode);
