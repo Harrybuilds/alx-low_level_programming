@@ -3,7 +3,7 @@
 /**
  *create_file - function to create a file
  *@filename: name of file to be created
- *@text_content: null terminated string to be written into the file
+ *@text_content: string to be inserted into the file
  *
  *Return: returns 1 on success else -1
  */
@@ -21,18 +21,23 @@ int create_file(const char *filename, char *text_content)
 		return (-1);
 
 	str = text_content;
-	if (str != NULL)
-	{
-		strlength = strlen(str);
-		n = dprintf(fileno(file), "%s", str);
-		if (n != strlength)
-		{
-			fclose(file);
-			return (-1);
-		}
-		fclose(file);
-	}
-
+/**<<<<<<< HEAD
+ *	if (str != NULL)
+ *	{
+ *		strlength = strlen(str);
+ *		n = dprintf(fileno(file), "%s", str);
+ *		if (n != strlength)
+ *		{
+ *			fclose(file);
+ *			return (-1);
+ *		}
+ *		fclose(file);
+ *	}
+ *=======
+ *	dprintf(fileno(file), "%s", str);
+ *	fclose(file);
+ *>>>>>>> parent of 12f0a02 (correction on task 1 of file i/o in c)
+ */
 	/*setting file permission for file owner*/
 	mode = S_IRUSR | S_IWUSR;
 	r = chmod(filename, mode);
