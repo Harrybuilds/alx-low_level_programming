@@ -1,0 +1,2088 @@
+623c0ab HEAD@{0}: commit: correction on task 1 of file i/o in c
+62787ed HEAD@{1}: commit: correction on task 1 of file i/o in c
+48df66c HEAD@{2}: commit: correction on task 1 of file i/o in c
+a6ee127 HEAD@{3}: commit: correction on task 1 of file i/o in c
+12f0a02 HEAD@{4}: commit: correction on task 1 of file i/o in c
+603adc6 HEAD@{5}: commit: file input and output tasks
+7e51448 HEAD@{6}: commit: bit manipulation task 4 and 5
+ad1da7b HEAD@{7}: commit: bit manipulation
+8aaee70 HEAD@{8}: commit: function to get node at given index
+0aada39 HEAD@{9}: commit: function to pop head of singly linked list
+9ae7602 HEAD@{10}: commit: resolve betty warnings for more singly linked list tasks
+1edb352 HEAD@{11}: commit: more tasks on singly linked list day 1
+b95d2c9 HEAD@{12}: commit: task 4 of singly linked list project
+d49199e HEAD@{13}: commit: singly linked list tasks
+1eaf6a8 HEAD@{14}: commit (merge): still battling git
+1cb1be1 HEAD@{15}: commit: singly linked list
+9bf7278 HEAD@{16}: pull: Merge made by the 'ort' strategy.
+0c07297 HEAD@{17}: commit (merge): function pointer
+e5afb1a HEAD@{18}: commit: readme for function pointer
+b4eae28 HEAD@{19}: commit: working on singly linked list project
+496f4ae HEAD@{20}: commit: task 2 of variadic function
+f806a4d HEAD@{21}: commit: correction on task 1 of variadic functionproject
+a1c4499 HEAD@{22}: commit: correct on task 1 of variadic function
+9b0d776 HEAD@{23}: commit: task 1 of variadic function project
+0484838 HEAD@{24}: commit: task 0 of variadic function project
+a27cc6b HEAD@{25}: commit: correction on task 2 of pointer function project
+45c649f HEAD@{26}: commit: correction on task 2 of pointer function project
+f6d5cd9 HEAD@{27}: commit: corrected task 0 of function pointer project
+8295554 HEAD@{28}: commit: corrected header file for function pointer project
+f4f3375 HEAD@{29}: commit: correction on task 1 of function pointer project
+35c78b0 HEAD@{30}: commit: task 2 of function pointer project
+2286082 HEAD@{31}: commit: correction on task 1 of function pointers project
+d9120b8 HEAD@{32}: commit: correction on task 0 of function pointers project
+1862255 HEAD@{33}: commit: second task for function pointers
+74c8077 HEAD@{34}: commit: starting out on function pointer project
+1e3725f HEAD@{35}: commit: all tasks for struct and typedef project
+6883013 HEAD@{36}: clone: from https://github.com/Harrybuilds/alx-low_level_programming
+==============
+commit 623c0abdbdfca0bee7e238b98b5a7928b9bd60f5
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jul 12 11:36:41 2023 +0000
+
+    correction on task 1 of file i/o in c
+
+commit 62787edaff095fea417f1dbd9fa14eb23e998237
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jul 12 11:31:50 2023 +0000
+
+    correction on task 1 of file i/o in c
+
+commit 48df66c733ddaef644638cc651b02298b58a1d26
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jul 12 11:12:16 2023 +0000
+
+    correction on task 1 of file i/o in c
+
+commit a6ee127192becdab7c2d9f2f696c6b7dabc6f521
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jul 12 10:41:24 2023 +0000
+
+    correction on task 1 of file i/o in c
+
+commit 12f0a021a33d921c5c39996a98d412d265ac2294
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jul 12 10:28:47 2023 +0000
+
+    correction on task 1 of file i/o in c
+
+commit 603adc657898961c6f7f78884275f9e428b157db
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jul 12 01:05:56 2023 +0000
+
+    file input and output tasks
+
+commit 7e514483d764fef3a08e9ec3d2d38354e67ee530
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Sat Jul 8 08:54:10 2023 +0000
+
+    bit manipulation task 4 and 5
+
+commit ad1da7bca29294bcea67d285bed8415e94a2b0b7
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jul 7 23:41:50 2023 +0000
+
+    bit manipulation
+
+commit 8aaee707fd05766fa3037bbd30fb2cdbef15e044
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jul 6 23:07:00 2023 +0000
+
+    function to get node at given index
+
+commit 0aada399fd575f53bf661dcc12b532ef4ce4f8da
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jul 6 22:01:58 2023 +0000
+
+    function to pop head of singly linked list
+
+commit 9ae7602f0acb4cad246b3c4fe755dc4bc5bb6ba2
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jul 5 23:43:30 2023 +0000
+
+    resolve betty warnings for more singly linked list tasks
+
+commit 1edb3526a1e56779c4472fc5429b12cc8bdda08d
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jul 5 23:22:45 2023 +0000
+
+    more tasks on singly linked list day 1
+
+commit b95d2c9d7cfb864717d6ebd194693a591c1706a7
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jul 4 21:25:32 2023 +0000
+
+    task 4 of singly linked list project
+
+commit d49199ed3d5f5151a89ee5b54ebc6d347aa20d70
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jul 4 21:20:16 2023 +0000
+
+    singly linked list tasks
+
+commit 1eaf6a8dbb0d842c628cef8002b20fc6fbf2b643
+Merge: 1cb1be1 635d8e8
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jul 4 11:00:57 2023 +0000
+
+    still battling git
+
+commit 1cb1be1119dac740501c8eb8c4aac5d011e2f81d
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jul 3 14:24:33 2023 +0000
+
+    singly linked list
+
+commit 635d8e83b3a69eda028180b9b9fa0e8caf7a3e0a
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jul 3 14:19:55 2023 +0000
+
+    simple calculator using function pointer
+
+commit 9bf72785b88ebdc814cab30d51d43764f2405d0b
+Merge: 0c07297 aa1b365
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jul 3 14:16:21 2023 +0000
+
+    Merge branch 'master' of https://github.com/Harrybuilds/alx-low_level_programming
+    
+    i'm not sure yet
+
+commit 0c072978de6cdf55a169e81cfe5f9112f7f8c162
+Merge: e5afb1a a06a727
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jul 3 14:08:07 2023 +0000
+
+    function pointer
+
+commit aa1b365d2ad2b4ed39345a5d6590dda5106063aa
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jul 3 12:33:36 2023 +0000
+
+    function pointers
+
+commit e5afb1a7b4e95254840fd1748e1fcac151910fbc
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jul 3 12:29:35 2023 +0000
+
+    readme for function pointer
+
+commit b4eae28c2a49b122d2fa5e9f61d7986cae021025
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jul 3 12:23:39 2023 +0000
+
+    working on singly linked list project
+
+commit a06a72730f51df3cf169a5a84cfb799fe22f166b
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Sat Jun 24 09:41:24 2023 +0000
+
+    Readme file for pointer function concept
+
+commit 4e36364185247acc2f6d08da224415bff9e9754d
+Merge: 5daee32 496f4ae
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Sat Jun 24 09:22:13 2023 +0000
+
+    simple calculator using function pointers and struct, that forced me to learn a bit more about git
+
+commit 5daee32b02560b7985c86b300b37a21fc4cd57bc
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 23 23:26:24 2023 +0000
+
+    calculator project done using struct and function pointers
+
+commit 496f4ae418d4210b3b7eb8e38309dd994eeeb56e
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 23 08:12:55 2023 +0000
+
+    task 2 of variadic function
+
+commit f806a4da33406c2c14dc58226bc72f81965eb011
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 23 06:57:26 2023 +0000
+
+    correction on task 1 of variadic functionproject
+
+commit a1c44990eaa052912f35b4cfc5473a76f92a0d19
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 22 23:52:24 2023 +0000
+
+    correct on task 1 of variadic function
+
+commit 9b0d77699d7017c0c918aa2e47083b5b76afba09
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 22 23:44:14 2023 +0000
+
+    task 1 of variadic function project
+
+commit 0484838e8823d57eea824ed57a60379d5c68a70c
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 22 23:12:31 2023 +0000
+
+     task 0 of variadic function project
+
+commit a0445fc0448b0419c4d6ac4afbfefa4a7353342e
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 22 15:44:43 2023 +0100
+
+    still try to figure this out
+
+commit e6168772b06b67744b0e67165fe592cd5e5338a8
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 22 15:15:49 2023 +0100
+
+    still try to figure this out
+
+commit 9a2de375d230cab698da2fd3844f88c0a1bc0bc1
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 22 11:29:12 2023 +0100
+
+    the readme file
+
+commit 25d62bacb4efcdbff06298ec93e3f8ed31d864e1
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 22 11:02:45 2023 +0100
+
+    Building a simple calculator using function pointers and struct data structure for function pointer project
+
+commit 90aa0644c56eb495b8ea972521ba180449fd3e4f
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 22 10:17:05 2023 +0100
+
+    Building a simple calculator using function pointers and struct data structure for function pointer project
+
+commit a27cc6becccbc2750bd1bff7c9a0ce00a96078e8
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jun 21 22:35:30 2023 +0000
+
+    correction on task 2 of pointer function project
+
+commit 45c649f0ebcaa6e4e34e577d89c6bcdb5949878f
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jun 21 22:30:12 2023 +0000
+
+    correction on task 2 of pointer function project
+
+commit f6d5cd9d485cf451b52f4742749c90f9b92c02f1
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jun 21 22:20:21 2023 +0000
+
+    corrected task 0 of function pointer project
+
+commit 829555413e1c5c9f0e9aed916728694ca8680759
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jun 21 22:15:55 2023 +0000
+
+    corrected header file for function pointer project
+
+commit f4f3375c25a4f2467c182f9f80e9cf5b4b9afa8e
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jun 21 22:11:44 2023 +0000
+
+    correction on task 1 of function pointer project
+
+commit 35c78b077926d2157b6ad5ef012cbae647c9ab68
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jun 21 17:34:14 2023 +0000
+
+    task 2 of function pointer project
+
+commit 228608276d1e2e9d51fbb04f3da0c2ccbac8c010
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jun 21 16:20:37 2023 +0000
+
+    correction on task 1 of function pointers project
+
+commit d9120b82f1e4498e81d07282c1b3cdab4b06f0e2
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jun 21 16:17:01 2023 +0000
+
+    correction on task 0 of function pointers project
+
+commit 186225500cd236c77dec1069be0cb94068539e26
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jun 21 14:14:17 2023 +0000
+
+    second task for function pointers
+
+commit 74c8077eacf04e016a8ba225faa5c3d74d3640de
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jun 21 13:42:28 2023 +0000
+
+    starting out on function pointer project
+
+commit 1e3725f13eada7d1c5c6f9c5ff19d71b58d0a3bf
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jun 21 07:41:01 2023 +0000
+
+    all tasks for struct and typedef project
+
+commit 6883013d96a85ab38087f16e7b7972306cd578ed
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 20 15:28:31 2023 -0700
+
+    task 5 of struct and typedef project
+
+commit b22a67eb1893df95a8bcc66a04c4ed2c819fd3c3
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 20 15:24:02 2023 -0700
+
+    task 5 of struct and typedef project
+
+commit b40b4c4033768fa2d057d1da6d4ee940b43d5e30
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 20 14:35:55 2023 -0700
+
+    all tasks so far
+
+commit a30a191b5d17b9c1110717d2336102adee63c9a8
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 20 14:22:28 2023 -0700
+
+    task 2 of struct and  typedef
+
+commit 59df88b23f0c4f13f145f0d01a78fcf0868e98ed
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 20 14:13:57 2023 -0700
+
+    task 1
+
+commit 5f09b7d41c28728526e07dafa6593e85440e83de
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 20 14:03:34 2023 -0700
+
+    all tasks on struct and typedef
+
+commit 1b8b292241f7081bb769a5af26d5779ffe2f4fe8
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 20 13:33:05 2023 -0700
+
+    still task 4 of struct and typedef
+
+commit 3c8fe48a175f3160e0a6d7b6d7a3b640191b2ab8
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 20 13:08:23 2023 -0700
+
+    still on task 4 of structure and typedef project
+
+commit db84a81d10368d64dab148ce46df5a388d3c91ae
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 20 11:49:22 2023 -0700
+
+    task 4 of structure and typedef
+
+commit 001ee8d3ac62afad6404d270a0eb814f76479128
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 20 10:12:16 2023 -0700
+
+    task 4 of structure and typedef project
+
+commit 6b595c05c332f7b2b1cd63f399baab358fc1255a
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 20 08:13:46 2023 -0700
+
+    task 3 of struct and typedef project
+
+commit e5a8f9d1d27c19bbfe575d941c0e368d81f4606c
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 20 08:09:20 2023 -0700
+
+    task 2 of struct
+
+commit 3670afbcfd497e65d79b8b48b4a08cf5e173ffe9
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 20 07:49:54 2023 -0700
+
+    task 2 of struct
+
+commit 9fac94f31bd2f478eb7a5edaccd94ac040aa42b3
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 20 07:47:03 2023 -0700
+
+    task 2 of struct
+
+commit 0d6bbcdf599e0915c132ba8eec1e5915788f1242
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 20 07:39:46 2023 -0700
+
+    task 2 of struct
+
+commit dce2aa339ffceb9c8af6cf8e15b80c829798e78d
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 20 01:18:51 2023 -0700
+
+    task 1 of structure and typedef project
+
+commit f43ff821a5b177136c73fec281e534b5d410b861
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jun 19 23:58:59 2023 -0700
+
+    dod some correct in task 1 of structure and typedef project
+
+commit fcfecbdea2c2ed458764cb6ffe2f51ac1222027d
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jun 19 23:52:01 2023 -0700
+
+    dod some correct in task 1 of structure and typedef project
+
+commit 85d789dd68bcfa11b1f7fabb73f1b5d16fd299cd
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jun 19 23:38:39 2023 -0700
+
+    correction on the struct dog header file
+
+commit 5c4258ab41cdbb6ae7a2c8bebf8051546ba2e2da
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jun 19 23:27:51 2023 -0700
+
+    correction on the last last of preprocessor project
+
+commit f1047f5f192e1e92a1a3936c52ba8141fd53ee77
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jun 19 14:37:48 2023 -0700
+
+    task 1 of structure and typedef project
+
+commit 9aa866b2d03f6d33d7822375755eb4dc471c936f
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jun 19 14:11:18 2023 -0700
+
+    task 0 of structure and type def project
+
+commit f7e8ac4ce07c17e9412ada67302d524e261d5e8f
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jun 19 14:04:02 2023 -0700
+
+    task 0 of structure and type def project
+
+commit 15c6b711d51169447e863ea210e167f9018c205c
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jun 19 07:40:42 2023 -0700
+
+    task 4 of preprocessor project
+
+commit 0a1fdee210159ed90b2ff491f5e28659f0c1a18f
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jun 19 07:29:25 2023 -0700
+
+    task 3 of preprocessor project
+
+commit 505af01489000ca1eb66bf71aac0b407e6aca29a
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jun 19 06:58:11 2023 -0700
+
+    task 2 of prepocessor directive
+
+commit 49c2f1fdfea4693753d541324ca6082aa1dd09fa
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jun 19 05:42:24 2023 -0700
+
+    task 1 of preprocessor project
+
+commit 48435c17b965151c8e307256497f71258805f152
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jun 19 05:34:42 2023 -0700
+
+    task 1 of preprocessor project
+
+commit fe9c945bbd686ee40a1b5020a0984571d6e0c903
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jun 19 05:28:09 2023 -0700
+
+    task 0 of preprocessor project
+
+commit ddbff6808d0c3a7e83d35ff28e05af258ca73e18
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jun 19 05:23:18 2023 -0700
+
+    readme
+
+commit a0db9375c3905ce8e03ebd41cbcea559bd9cfd83
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Mon Jun 19 05:20:38 2023 -0700
+
+    task 0 of preprocessor project
+
+commit 62dc26ee9fe4e7a11ebab3864be1c789ef4fa543
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 16 10:11:48 2023 -0700
+
+    advance task 2 of more malloc
+
+commit d01c990303e28c459afd200cad02d9bd10e54ddf
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 16 10:07:19 2023 -0700
+
+    advanced task 1 of more malloc project
+
+commit d7b30a097f93fc6fc89874e4b53c529177df5cbb
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 16 09:57:11 2023 -0700
+
+    task 3 of more malloc project
+
+commit 5478841ef25441875f057bf09bfb70843a091e96
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 16 09:50:15 2023 -0700
+
+    task 2 of more malloc project
+
+commit a02b393631e50d745dfb72ad55d1cbaea8df989b
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 16 09:38:39 2023 -0700
+
+    task 1 of more malloc project
+
+commit df4f79f087297447f2ec509cd23874a5702a0b7c
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 16 09:34:15 2023 -0700
+
+    task 1 of more malloc project
+
+commit 02c4e4eca190feb8f9c6c07db9024a83813ef0db
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 16 09:25:07 2023 -0700
+
+    task 0 of more malloc project
+
+commit 2b4278f04d24f4aa7ae9cb9a463b24a8efce3079
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 16 09:23:38 2023 -0700
+
+    task 0 of more malloc project
+
+commit b6554a50fbbe5dc29534211504def586c970a753
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 16 09:22:01 2023 -0700
+
+    task 0 of more malloc project
+
+commit 7ceeec7546a503ed994675adbf6c9b15e0500c06
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 16 09:19:03 2023 -0700
+
+    task 0 of more malloc project
+
+commit ea625ca0683ca2de230ab734e091d1eba4d2abd5
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 16 09:14:11 2023 -0700
+
+    task 0 of more malloc project
+
+commit 66dc200dbc456861603db77fd07fce9c606de057
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 16 09:12:07 2023 -0700
+
+    task 0 of more malloc project
+
+commit aa05dbbb76419f827d31f9d2ea714c0383f55b5f
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 16 09:09:23 2023 -0700
+
+    task 0 of more malloc project
+
+commit b571292e775b9883594512f7c512b8b7937ff423
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 16 08:56:51 2023 -0700
+
+    task 0 of more malloc project
+
+commit c6fea99da9986a047b705d12a1bfb272c9da0070
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 16 08:49:34 2023 -0700
+
+    task 1 of more malloc
+
+commit 8671b3829dc16205fa0a753f15fb080c6a93baa8
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 15 12:08:35 2023 -0700
+
+    task 1 of more malloc
+
+commit 422f13932f985f4653fd3eef2263b049441cc302
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 15 08:02:04 2023 -0700
+
+    task 0 of more malloc
+
+commit 5cbb6d6a7fdbd29c3def722614ebc053b359c6d1
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jun 14 02:49:34 2023 -0700
+
+    task 2 of malloc project
+
+commit f19a34ff47ef7e9979416199f9fe1d9d3ad8fcaa
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Wed Jun 14 02:44:44 2023 -0700
+
+    task 2 of malloc project
+
+commit fbaa9eecc8c17ff50ab7320ef7cefd0323bd9307
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 13 10:00:28 2023 -0700
+
+    task 1 of malloc project
+
+commit b1f355761f1988768a956014bb8f640807dee3f9
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 13 09:56:27 2023 -0700
+
+    task 1 of malloc project
+
+commit b34f5ec2c7dd690bc82377a08b0e646796812164
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 13 09:35:00 2023 -0700
+
+    task 0 of malloc
+
+commit c1f3d8866fcb3d4171e72d54188f2475ab956aac
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 13 02:02:39 2023 -0700
+
+    task 1 of argc argv project
+
+commit 1ac734af1d49fb5194d9d2952c42c787c0833524
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Tue Jun 13 01:49:29 2023 -0700
+
+    task 1 argc argv project
+
+commit e4491a1803e56ddcb49d3571c817f9c0135744e8
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Sun Jun 11 23:13:33 2023 -0700
+
+    task 5 of argc and argv project
+
+commit d9bb5fcc8e845efd1ac6373b4983558975adc358
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Sun Jun 11 08:39:52 2023 -0700
+
+     task 4 of argc and argv project
+
+commit fca296459abfcb1167888e2c49a18ccf4406f046
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Sat Jun 10 05:24:12 2023 -0700
+
+    task 4 of argc and argv project
+
+commit 26dd503c0791fbdbe2f2e211bcd4ee416bcb6363
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Sat Jun 10 00:33:09 2023 -0700
+
+    task 3 of argc argv project
+
+commit bb300a4adcbfe91ab52995ade7fbbace27771a50
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Sat Jun 10 00:08:22 2023 -0700
+
+    task 1 of argc argv project
+
+commit 323268ebc9516976c7044ab9379ddbd053b5e6c4
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Sat Jun 10 00:04:02 2023 -0700
+
+    task 1 of argc argv project
+
+commit ebf5f6eefa88796aa24a9ba68505352c1e77a946
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 9 23:51:40 2023 -0700
+
+    task 0 of argc argv project
+
+commit 14c7b0c617f8fcccbe539c0bad65f77183982d3e
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 9 23:45:39 2023 -0700
+
+    task 0 of argc argv project
+
+commit 3bbde0937780a83721ddb1996f683c134b8f497a
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 9 14:57:03 2023 -0700
+
+    task 0
+
+commit b295df2be587d2a147dfa4801e71d30640474ddd
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 9 09:23:53 2023 -0700
+
+    2-args.c
+
+commit 6cd29d12e4d8bcaa428df539f5d758b67d0f05ec
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 9 09:01:04 2023 -0700
+
+    task 0 for argc and argv
+
+commit b0d3b54db3d8265d0c44d27e4f87b99ca2063ed5
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 9 08:53:30 2023 -0700
+
+    task 0 for argc and argv
+
+commit 44f2ae6cc23821aacf16e7c1c12254406f3f2c52
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 9 06:49:22 2023 -0700
+
+    executable script that create a static library from all c file in the present working directory
+
+commit 48ce8658d28306bda968f3eeb90e4c70d49db555
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 9 06:42:23 2023 -0700
+
+    todays first project task 1
+
+commit 8ecda108f2d3493d4746e890fa55e70ac00b113d
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Fri Jun 9 06:40:38 2023 -0700
+
+    todays 1st project task
+
+commit 240a805ea71e61c965daf76720e20385a97f5eaa
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 8 15:44:38 2023 -0700
+
+    task 3
+
+commit 9b6d4493267172154b8d9c391e89d754c752ea14
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 8 15:42:09 2023 -0700
+
+    task 3
+
+commit 0296c360764d253c1a79acaf80faf3b26b8b5ed5
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 8 14:43:51 2023 -0700
+
+    second task
+
+commit addfc8394976a046f30afd6488c1e0315c1ba628
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 8 14:37:31 2023 -0700
+
+    second task
+
+commit dffcbbe624c1c6adc744d17dc74d136cffc23c27
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 8 14:19:55 2023 -0700
+
+    second task
+
+commit 6658553b8444a3ba65326d568706b5f56f2c3247
+Merge: 5ea8f87 abdae66
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 8 14:14:02 2023 -0700
+
+    task 2
+
+commit 5ea8f873a03e3cd7db64a370f77de2c75e62c626
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 8 14:09:55 2023 -0700
+
+    second task
+
+commit abdae66dd20f171448997e809e022aa2c2b70ab0
+Author: Harrybuilds <126526769+Harrybuilds@users.noreply.github.com>
+Date:   Thu Jun 8 21:44:32 2023 +0100
+
+    Delete 0-puts_recursion
+
+commit daba1153f8ac1c73284cf5b98331dcad73ca3a68
+Author: Harrybuilds <126526769+Harrybuilds@users.noreply.github.com>
+Date:   Thu Jun 8 21:44:04 2023 +0100
+
+    Delete .#0-puts_recursion.c
+
+commit a0db796fb3aaea4d96849daa22bfd98bbb1e9eeb
+Author: Harrybuilds <126526769+Harrybuilds@users.noreply.github.com>
+Date:   Thu Jun 8 21:43:44 2023 +0100
+
+    Delete .emacs
+
+commit 89290e5f7210149a32a9863c5dce2dbb366bc7da
+Author: Harrybuilds <126526769+Harrybuilds@users.noreply.github.com>
+Date:   Thu Jun 8 21:43:06 2023 +0100
+
+    Delete .emacs~
+
+commit 5a25223856409aee341eb393942809bd7f5d6f75
+Author: Harrybuilds <126526769+Harrybuilds@users.noreply.github.com>
+Date:   Thu Jun 8 21:42:33 2023 +0100
+
+    Delete .vimrc
+
+commit 9b229590f527b7b5bf16a8182f95fc3cde3740fc
+Author: Harrison <harrisonchialuka@gmail.com>
+Date:   Thu Jun 8 13:36:48 2023 -0700
+
+    first task
+
+commit f0497c032f3e50b71045f2040a42f49e6d3d30d8
+Author: Harrybuilds <126526769+Harrybuilds@users.noreply.github.com>
+Date:   Tue May 30 12:49:59 2023 +0100
+
+    Delete 0x15-file_io directory
+    
+    Deferred to cohort 15 and had to delete tasks starting from recursion and afterwards
+
+commit 8a2863d2e9bdb113f8502b6f8188c25039c82b2c
+Author: Harrybuilds <126526769+Harrybuilds@users.noreply.github.com>
+Date:   Tue May 30 12:49:06 2023 +0100
+
+    Delete 0x14-bit_manipulation directory
+    
+    Deferred to cohort 15 and had to delete tasks starting from recursion and afterwards
+
+commit af4b7710e4e74baaaf18bdff474debbde8576613
+Author: Harrybuilds <126526769+Harrybuilds@users.noreply.github.com>
+Date:   Tue May 30 12:48:13 2023 +0100
+
+    Delete 0x13-more_singly_linked_lists directory
+    
+    Deferred to cohort 15 and had to delete tasks starting from recursion and afterwards
+
+commit c6fd0d57e2eba2d01c27d69f642dd76f3643a932
+Author: Harrybuilds <126526769+Harrybuilds@users.noreply.github.com>
+Date:   Tue May 30 12:46:50 2023 +0100
+
+    Delete 0x12-singly_linked_lists directory
+    
+    Deferred to cohort 15 and had to delete tasks starting from recursion and afterwards
+
+commit 385b724911a5c4928098d662441469478d74aa3d
+Author: Harrybuilds <126526769+Harrybuilds@users.noreply.github.com>
+Date:   Tue May 30 12:46:04 2023 +0100
+
+    Delete 0x10-variadic_functions directory
+    
+    Deferred to cohort 15 and had to delete tasks starting from recursion and afterwards
+
+commit e1e0e00c8f99c6ccead4ce32ab05c02aa1120045
+Author: Harrybuilds <126526769+Harrybuilds@users.noreply.github.com>
+Date:   Tue May 30 12:45:26 2023 +0100
+
+    Delete 0x0F-function_pointers directory
+    
+    Deferred to cohort 15 and had to delete tasks starting from recursion and afterwards
+
+commit 7d6c56f1ad5c0aa4aa2edb15fdf824b136d09490
+Author: Harrybuilds <126526769+Harrybuilds@users.noreply.github.com>
+Date:   Tue May 30 12:44:51 2023 +0100
+
+    Delete 0x0D-preprocessor directory
+    
+    Deferred to cohort 15 and had to delete tasks starting from recursion and afterwards
+
+commit 5f42aea89f38a83c52d1d8b1b8d053efd41246ca
+Author: Harrybuilds <126526769+Harrybuilds@users.noreply.github.com>
+Date:   Tue May 30 12:44:13 2023 +0100
+
+    Delete 0x0C-more_malloc_free directory
+    
+    Deferred to cohort 15 and had to delete tasks starting from recursion and afterwards
+
+commit fe5afe3ceede4ff32e5455da9ec979b672cf8d8b
+Author: Harrybuilds <126526769+Harrybuilds@users.noreply.github.com>
+Date:   Tue May 30 12:43:10 2023 +0100
+
+    Delete 0x0B-malloc_free directory
+    
+    Deferred to cohort 15 and had to delete tasks starting from recursion and afterwards
+
+commit c82a8fe72350597995a6b34a492900d2846d1c58
+Author: Harrybuilds <126526769+Harrybuilds@users.noreply.github.com>
+Date:   Tue May 30 12:42:06 2023 +0100
+
+    Delete 0x0A-argc_argv directory
+    
+    Deferred to cohort 15 and had to delete tasks starting from recursion and afterwards
+
+commit 7ba985c3d4f0960c2fa0b9c0b246994cedb43ac7
+Author: Harrybuilds <126526769+Harrybuilds@users.noreply.github.com>
+Date:   Mon May 29 19:02:00 2023 +0100
+
+    Delete 0x09-static_libraries directory
+    
+    Deferred to cohort 15 and had to delete tasks starting from recursion and afterwards
+
+commit ea0390b6b3fd4d4236093c5c8358576ec4c2388d
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue May 9 19:17:02 2023 -0700
+
+    task 2
+
+commit bd12414fcdbaac8cea7256df00aaecca0a3db787
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue May 9 09:33:24 2023 -0700
+
+    task 1 of file handling project
+
+commit 21791694c2ee8cd67ebaa71a5dc206ed08985b92
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue May 9 03:23:46 2023 -0700
+
+    task 0
+
+commit 02cc70c6e863df84095f63d5400dc745cea63923
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri May 5 14:03:11 2023 -0700
+
+    task 2 of advanced task for bit manipulation
+
+commit 10ff43c433c8f343155b40c19f03907376031a45
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri May 5 12:15:08 2023 -0700
+
+    first advanced task for bit manipulation project
+
+commit eb418dda256b0bc9fde51ee0cbf2844e59c42f5a
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri May 5 11:59:22 2023 -0700
+
+    task 5 of bit manipulation project
+
+commit 0627dfc71cf56089bd4366ea85c3676694c91eaf
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri May 5 07:00:08 2023 -0700
+
+    task 4 of bit manipulation
+
+commit ed11272a5c5a82296f04f613b78d08067f7948a0
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri May 5 06:54:50 2023 -0700
+
+    task 3 of bit manipulation project
+
+commit d16b926d72d5895727c5fa1531d07a35d7dd190c
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri May 5 06:45:40 2023 -0700
+
+    task 2 of bit manipulation
+
+commit 20a91be12a4eb455af40d6f4cc917dcc7a2fe24d
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri May 5 06:18:03 2023 -0700
+
+    _putchar being added to thd directory
+
+commit 2177e4a35a25c7a6c6597ed820b08cb90a6fa938
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri May 5 05:44:21 2023 -0700
+
+    task 1 of bit manipulation project
+
+commit 5ffbca82c51c604685567f852902f42469d1cd6a
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri May 5 05:28:19 2023 -0700
+
+    task 0 of bit manipulation project
+
+commit c0d0c60baadf0ab94d804d96a53fbde8003c56b4
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri May 5 05:23:18 2023 -0700
+
+    task 0 of bit manipulation project
+
+commit db7cab8ff680496cdc71ceab5736d17dd6e7ca7a
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri May 5 05:19:13 2023 -0700
+
+    task 0 of bit manipulation project
+
+commit ea496f7d0cac55b3cf2c68e80ce6d6ae0109839e
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon May 1 09:28:42 2023 -0700
+
+    task 2 of advanced task for singly linked list project
+
+commit b678a9eb6b82f5ef8cbca50e626eb604e9c6c4bb
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon May 1 07:47:53 2023 -0700
+
+    task 1 of advanced task in singly linked list
+
+commit f1d20265f4524c8e82e4e27ed974df90a7da18a5
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon May 1 07:34:06 2023 -0700
+
+    first advanced task of singly linked list project
+
+commit a22928a65d1ed6070a7fce9fa62ef2740fe47588
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon May 1 07:23:57 2023 -0700
+
+    task 10 of singly linked list project
+
+commit 256d51f703f3ce03df3184902b5fe3daa8b64af4
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon May 1 06:57:40 2023 -0700
+
+    task 9 of more singly linked list
+
+commit 6af4590068c6ce206574932e466cb8a5e7a23992
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon May 1 06:54:58 2023 -0700
+
+    task 9 of more singly linked list
+
+commit c53c80085c8d17ffaed1f701e51ccd660b40c97d
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon May 1 06:50:29 2023 -0700
+
+    task 9 of more singly linked list
+
+commit 45cda9bdbb83806220f48a8b68b27795afc7b364
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 30 06:10:22 2023 -0700
+
+    task 8 of more linked list
+
+commit 4268c69ce1d7dff18aa0c91d92c711dc218bbbe4
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 30 05:56:28 2023 -0700
+
+    task 7 of more linked list project
+
+commit 516023876f86c406332abe60ddae8846910ef78a
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 30 05:37:14 2023 -0700
+
+    task 6 of more linked list project
+
+commit 268ceb030fd76d535a76748de2448cc302615d16
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 30 05:23:09 2023 -0700
+
+    task 5 of more linked list project
+
+commit 7e1ac46e0b3b29563bc7f719d11cfc0456e3aa3b
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 30 04:55:57 2023 -0700
+
+    task 4 of more linked list project
+
+commit 0b258e514537a840e8fcac23ec1ddce466ddcb16
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 30 04:33:18 2023 -0700
+
+     task 3 of more linked list project
+
+commit a2adfc943a45c27417db5e548564270ab7c8644e
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 30 04:26:18 2023 -0700
+
+    task 3 of more linked list
+
+commit d626a37c9c5025ab60d4ef2bf745c17387ab68a6
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 30 03:50:20 2023 -0700
+
+    task 2 of more linked list
+
+commit 5bc6800e537a08c2974c364e3e209da39a0cd7c7
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 30 03:36:43 2023 -0700
+
+    task 1 of more linked list
+
+commit faee1a842b6d2488900b521415a74dc6905e5893
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 30 03:35:31 2023 -0700
+
+    task 1 of more linked list
+
+commit 43fdb520a536c3e168074d40c5d1d5c3b4c38e43
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 30 03:21:23 2023 -0700
+
+    task 0 of more linked list
+
+commit 18ad9cbe317f979d6cc24284e27baee680a79b5f
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 30 03:19:38 2023 -0700
+
+    task 0 of more linked list
+
+commit 4d33c47e9f40230e5bd3e3661b5d8be34b5c963e
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 30 03:07:03 2023 -0700
+
+    task 1 of more linked list
+
+commit a649d29915002802213cccfd15d2f337dcbde40f
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Apr 27 12:20:46 2023 -0700
+
+    task 100 edited to comply with betty standard
+
+commit e29be401e22591acb48911c46fde5956040d7166
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Apr 27 12:07:48 2023 -0700
+
+    task 100 edited to comply to betty standard
+
+commit ce4e71f01832821fb57876d29ad9cda199fd9f06
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Apr 27 11:59:02 2023 -0700
+
+    advance task 1
+
+commit 6019352cff8e5cb016d60d283f889680556f1d08
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Apr 27 11:22:57 2023 -0700
+
+    header file and readme file
+
+commit f1b020a32f620c6c03a934bb004e70027a006c82
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Apr 27 11:02:50 2023 -0700
+
+     task 1 to 4 singly linked list
+
+commit 6f813c23a64b8a4a07318ba42af358be30d387ff
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Apr 27 09:03:52 2023 -0700
+
+    task 0 for singly linked list
+
+commit f3984cd04a33959c2d7f4045d3d71af80a50ab0f
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Apr 27 08:59:40 2023 -0700
+
+    task 0 for singly linked list
+
+commit 15dccc9c91494de038004caeea931fd1d1c143fb
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Apr 21 11:35:02 2023 -0700
+
+    task 2
+
+commit 1fc0fa015f712acf7b946a914405adcd47ae4e4d
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Apr 21 11:32:58 2023 -0700
+
+    task 3
+
+commit 35861219f1230823b7ecaf4ab0e9596f7783fb9d
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Apr 21 11:31:03 2023 -0700
+
+    task 3
+
+commit 0b9b23003335bb729a5ef419824bcdbbe1ce4428
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Apr 21 11:20:18 2023 -0700
+
+    task 3
+
+commit 5cd042e1f955b0d87f31ce3e6c0bc70521df47ce
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Apr 21 03:16:16 2023 -0700
+
+    task 2
+
+commit 46a3b548b4ecb8971e6464e92651e206d452da25
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Apr 21 03:11:35 2023 -0700
+
+    task 2
+
+commit e855b3ffb080015560df51ae83fd8f59a140938a
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Apr 21 02:43:03 2023 -0700
+
+    task 2
+
+commit 0f5842c1a70b57283cab369e93eb0f3bdb19971b
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Apr 20 22:50:05 2023 -0700
+
+    task 1
+
+commit 5abe86ddb3dee31948137cd8379dab5d75413fa9
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Apr 20 22:40:48 2023 -0700
+
+    task 0
+
+commit 6fae91c7fb7b5adbbe86bc3357d7e00a2a691004
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Apr 20 07:12:40 2023 -0700
+
+    task 0
+
+commit 5997e229c72997f5e8db77e4b7e9bcc2d9118281
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Apr 20 07:08:58 2023 -0700
+
+    task 0
+
+commit bccd2db0a77fa707c55d21220c38dbc4544e61dc
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Apr 20 07:04:33 2023 -0700
+
+    task 0
+
+commit e578f4fcc7ce7a3200f4614f67fcb36533a0ab51
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Apr 20 07:00:47 2023 -0700
+
+    task 0
+
+commit ac2bde607a2c6415c103328265a72ea387ad3d7a
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Apr 19 06:18:04 2023 -0700
+
+    1-array_iterator.c
+
+commit 865745f8b0dd0feef84042eb64b74876a5f1e94c
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Apr 19 06:11:54 2023 -0700
+
+    1-array_iterator.c
+
+commit f48820a086fa472b4df294e31008a9d4c85f3ca6
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Apr 19 06:00:47 2023 -0700
+
+    task 1
+
+commit 740e21856ba0dc9587b638154c600065fc3cb36e
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Apr 19 05:51:34 2023 -0700
+
+    tasks
+
+commit d8de9f662340ecb0d4cac368d991b932b60d5c52
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Apr 19 05:39:11 2023 -0700
+
+    task 2
+
+commit 092a8f7dbafc6959adc9f18f21698545be211f46
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Apr 19 05:35:53 2023 -0700
+
+    task 2
+
+commit e6fb25421e86cf5119f60cd4b4a007c7fac8e4c5
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Apr 19 03:03:06 2023 -0700
+
+    task 1
+
+commit 1c727a683b1d011b6e3377eb98fab0d2eea6626c
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Apr 19 02:26:25 2023 -0700
+
+    task 0
+
+commit ed6426c777e1b065c2f8d1c56d94ddaf31f3b320
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Apr 17 10:17:46 2023 -0700
+
+    task 4
+
+commit 1724d465d2ca312ba1c6e3a43f7e2e1d654bb262
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Apr 17 10:05:35 2023 -0700
+
+    task 3
+
+commit 5f91bf4e625e597a990953c016e67e7462bd1c5a
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Apr 17 09:02:49 2023 -0700
+
+    task 2
+
+commit 598f116cc0f25b3a2aab44c19e514c6e65730bad
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Apr 17 09:01:32 2023 -0700
+
+    task 2
+
+commit 5a42fa334ea265fcb53d1a0aadafe99035eae5ab
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Apr 17 08:39:49 2023 -0700
+
+    task 1
+
+commit c09866218c109badf88b1798afe49412e138d08a
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Apr 17 07:39:08 2023 -0700
+
+    task 0
+
+commit 71cf1ce5f3abc79b58f9a01167ac5d910746a736
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Apr 17 07:35:07 2023 -0700
+
+    task 0
+
+commit 7d32422f701e1e3ee99565caac0e6834ea7a53ad
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Apr 17 07:24:09 2023 -0700
+
+    task 0
+
+commit 809bbc75a189e3234bc0dba58031dbfeb0e56424
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Apr 14 15:50:59 2023 -0700
+
+    advance task 1
+
+commit 493ea1287407704ae88e6dde3c1482149f00ba4a
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Apr 14 13:05:38 2023 -0700
+
+    task 3
+
+commit d9ae126a59b5895041d610a11ccda363df20a824
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Apr 14 11:39:46 2023 -0700
+
+    task 2
+
+commit defe290c4893bca4382f303fb59bf3a1c9d64996
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Apr 14 08:26:32 2023 -0700
+
+    task 1
+
+commit ca3758aa720c70394740f6dcd2ab223e2a161c66
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Apr 14 04:52:16 2023 -0700
+
+    task 0
+
+commit baf6728c7a3c863e7e46063e5b70d1e2b75bbcf5
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Apr 14 04:23:08 2023 -0700
+
+    task 0
+
+commit ca8543adc06f9a0a58cb2b03a1b24e0b762c5de5
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Apr 14 01:00:45 2023 -0700
+
+    task 0
+
+commit 15b9289f861289c25ed7ca53fd9feb88f864a0b8
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Apr 12 16:49:27 2023 -0700
+
+    task 3
+
+commit d6f554ff0c15beb8d86a414f167bf2ad367561c9
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Apr 12 10:15:57 2023 -0700
+
+    task 2
+
+commit 59e203c84fb234b3a287a757961b306c9d3b56cb
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Apr 12 07:24:49 2023 -0700
+
+    task 1
+
+commit 902a71ec4df46f4e9eec1ac08bf913f695cd4f63
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Apr 12 07:20:16 2023 -0700
+
+    task 1
+
+commit d9b52895204db42fca3cb8a37d2f0c52374f4d0f
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Apr 12 07:05:40 2023 -0700
+
+    task 0
+
+commit 0082e0f00b5f2f4c9c11327c7fe049985d8e95c1
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Apr 12 06:50:08 2023 -0700
+
+    task 1
+
+commit 2d2199194ca661b4e9c5281e080a6571f6e95bb2
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Apr 12 05:12:44 2023 -0700
+
+    task 0
+
+commit f92718c0ddabe5c7c01032b16d62ffef16b8852d
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Apr 10 09:09:58 2023 -0700
+
+    task completed
+
+commit 3d1d2b32cace4e81be852d6d6c07690ce79c321e
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Apr 10 08:39:04 2023 -0700
+
+    task 1
+
+commit 9764d7cf63cc6e6d9c52d495c3da39780927ee93
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Apr 10 08:37:59 2023 -0700
+
+    task 1
+
+commit bd8172309fe164cdfda948e0fca832e959aa049d
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Apr 10 08:21:11 2023 -0700
+
+    task 0
+
+commit 291e65ad25578a671e1ea586a0564607c0e803e0
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 9 07:43:24 2023 -0700
+
+    2-args.c
+
+commit aa61cb97ff2cc437aa011d7ff5fa848a77a43781
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 9 07:41:25 2023 -0700
+
+    2-args.c
+
+commit 7de733b5d86e3cdd8c4df8256d195fd30c57db0c
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 9 07:25:08 2023 -0700
+
+    task 2
+
+commit c104788c6a4910ee090a8ebb188a7a179fc352ac
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 9 07:11:35 2023 -0700
+
+    task 2
+
+commit 3c3c0b078e2eafd0ab46bbb15368095828325f16
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 9 05:49:29 2023 -0700
+
+    task 3
+
+commit f071741ad87b7558e4addfc7f1d2ed63691cfe7c
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 9 04:47:40 2023 -0700
+
+    1-args.c
+
+commit 44d58c2c73bc03bd3ccd51e4f41b351ecd888ba8
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 9 04:26:11 2023 -0700
+
+    task 0
+
+commit 6ac05b31993ba0e487896983399db17235aeed7a
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 9 03:45:41 2023 -0700
+
+    task 0
+
+commit 2cb534fa9e74e11db45d7c39759da661234096fc
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 9 03:41:49 2023 -0700
+
+    task 0
+
+commit e61064559a4724599b1a6df1fab3a2f209168a3a
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 9 03:30:34 2023 -0700
+
+    task 0
+
+commit cee5b3b6427f836da2b6aa5acb4b32443eadcb8e
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Apr 9 03:13:30 2023 -0700
+
+    task 0
+
+commit d5a31171854370fdb85a55512d344a5614862caa
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 30 03:46:06 2023 -0700
+
+    7-leet.c
+
+commit 513d0968745e0a6ae8c1da810076064b6d388d11
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 30 03:20:12 2023 -0700
+
+    6-cap_string.c
+
+commit 2b95598d9bc3294589a0ec599e72d81af98e6082
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 30 01:01:11 2023 -0700
+
+    5-string_toupper.c
+
+commit cc39bde4658e76a101906a95ac60be1a92e04d4d
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Mar 29 12:10:15 2023 -0700
+
+    4-rev_array.c
+
+commit 0db773b8e705fcb82e03b36cefed6677cf3abbe1
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Mar 29 11:15:14 2023 -0700
+
+    3-strcmp.c
+
+commit 474938292585540f35237cacb6bc4b27eca0e169
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Mar 29 10:47:49 2023 -0700
+
+    2-strncpy.c
+
+commit b2e25d202738fc1a3f61e3b69d766e4622fe5cef
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Mar 29 10:32:03 2023 -0700
+
+    readme file
+
+commit 84178c007b62130a365e276a616bdf9319637e74
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Mar 29 06:42:12 2023 -0700
+
+    task 0 and 1
+
+commit 21f76735c026c1d908a2fc6a866fde9b8d0aaf69
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 28 06:49:48 2023 -0700
+
+    9-strcpy.c
+
+commit 59b7fc9a28eec8e09e4b0486370f97d9d4487aac
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 28 06:21:43 2023 -0700
+
+     8-print_array
+
+commit eb357da087a447e51ffe4fea24818f2605e35858
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 28 05:55:47 2023 -0700
+
+    7-puts_half.c
+
+commit 743058aad9a66d3a505ccb4543b2d061b202d5a2
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 28 05:38:50 2023 -0700
+
+    6-puts2.c
+
+commit f393401b54f853c4f4b6a5a3b404a335c936b6da
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 28 05:15:26 2023 -0700
+
+    5-rev_string.c
+
+commit 829361c241cad31e11f6447fb2056c0cea30561f
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Mar 27 10:02:27 2023 -0700
+
+    3-puts.c
+
+commit 570df0101af3872cf6f11f854aec1150cf8311c7
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Mar 27 09:50:56 2023 -0700
+
+    4-print_rev.c
+
+commit 6d4a90b0ec93d06c3a45ee0f872ba12fceb1f7bf
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Mar 27 09:19:14 2023 -0700
+
+    3-puts.c
+
+commit 8d00acb19652a8780e3168321f7f2d06f2861464
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Mar 27 08:08:58 2023 -0700
+
+    2-strlen.c
+
+commit eb5d4f21538025781e0437730cfc2dd405ac878d
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Mar 27 08:05:50 2023 -0700
+
+    2-strlen.c
+
+commit b9027fb0f90c5eec462daf9cc584fd1dcd788756
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Mar 27 07:27:29 2023 -0700
+
+    1-swap.c
+
+commit 5fa8afaff7d4867ae1ea327c19add056c7b5abb1
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Mar 27 07:24:35 2023 -0700
+
+    1-swap
+
+commit 40fa71a424738892e548127e9a5cb063766d5cc4
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Mar 27 06:29:06 2023 -0700
+
+    0 task
+
+commit e34823d76cf79678abae3852c1ec5209e7c47487
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Mar 27 06:25:18 2023 -0700
+
+    0 task
+
+commit 3815b96ade15bf69cc41293204d847e433c67476
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Mar 27 06:19:59 2023 -0700
+
+    task 0
+
+commit 34fa33b7f2d4bc3b333ccdf802fd52148d86bf86
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Mar 24 15:42:48 2023 -0700
+
+    10-print_triangle.c
+
+commit 1ab5480ad40d5e862726c7fe27cfaaeac60e994f
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Mar 24 10:47:41 2023 -0700
+
+    7-print_diagonal.c
+
+commit 9e553262403fe49cd416d1baf86ecd4109bb5963
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Mar 24 09:57:35 2023 -0700
+
+    9-fizz_buzz
+
+commit 56e06fcae5c66c916f1d9b2a77f5dc7f95656ba4
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Mar 24 09:22:12 2023 -0700
+
+    6-print_line.c
+
+commit 4bb95b8dc81c75bfcced55f7b0c354afed820d2f
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Mar 24 09:16:15 2023 -0700
+
+    8-print_square.c
+
+commit a0b734eeca1ae68435317660b847d4d4c2947d83
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 23 11:13:27 2023 -0700
+
+    6-print_line.c
+
+commit 97dc2940962cedee10665281e0a921d2ffd7c4e7
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 23 10:23:37 2023 -0700
+
+    5-more_numbers.c
+
+commit 0940d9b34404bdcacf9e1bd92238f0db695acbcf
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 23 07:04:00 2023 -0700
+
+    4-print_most_numbers.c
+
+commit d22d0881412a19dc86ecd1c02d904f6ff38eb703
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 23 06:02:05 2023 -0700
+
+    3-print_numbers.c
+
+commit 957229c33c691a6e56da2c82369e0d21a57771f0
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 23 05:23:05 2023 -0700
+
+    2-mul.c
+
+commit c7af39becf7ef72b2c1a9700d92bb066f1800ad3
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 23 05:17:09 2023 -0700
+
+    2-mul.c
+
+commit 5c37ceedba55420bc8e15db12cafa0dca4853c0c
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 23 04:55:30 2023 -0700
+
+    1-isdigit.c
+
+commit ab9977d1039f3df6186b95664fbaca34f6dce763
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 23 04:32:21 2023 -0700
+
+    0-isupper.c
+
+commit 46f51b1c920211a9f4629c2e9062c4c4bfed87b3
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 23 04:20:12 2023 -0700
+
+    0-isupper.c
+
+commit af22c7307d1789c263521dd5c73d3cbcf271299f
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 23 04:18:39 2023 -0700
+
+    0-isupper.c
+
+commit eef3148e1c8ee21d9dab52e653f1c2fbdf49f8c8
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Mar 22 12:55:40 2023 -0700
+
+    3 task
+
+commit 91b7cc28329c0580c0765fd304a5307e62eca434
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Mar 22 12:02:35 2023 -0700
+
+    2nd task
+
+commit bcdda94d3e7af4234ac6b0d9884afff941bbfc15
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Mar 22 11:45:28 2023 -0700
+
+    1st task
+
+commit be46a42aeb88da8c2e12d048bdf25d6a250e5c40
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Mar 22 08:52:46 2023 -0700
+
+    10-add.c
+
+commit 5d44c938a9c700b181a7e5616155fbc5658a6947
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Mar 22 08:49:16 2023 -0700
+
+    10-add.c
+
+commit d289620a3f9361223775e5fffbdfa6f0030d12cc
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Mar 22 08:47:48 2023 -0700
+
+    10-add.c
+
+commit 687fc49b2c990af116396c3e12f39584cd5bbc85
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Mar 22 08:37:45 2023 -0700
+
+    9-times_table.c
+
+commit 367ed95f9bd58f3d19b39434013d505dd43e76be
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Mar 22 08:35:45 2023 -0700
+
+    9-times_table.c
+
+commit cc76eb7c0aa53413710ec2e6b1e7b0b3e096e1bc
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Mar 22 08:10:56 2023 -0700
+
+     9-times_table.c
+
+commit 8db29a76515c9453ea0b5af2be65bb1a2a1c0938
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Mar 22 05:11:33 2023 -0700
+
+    8-jack_bauer
+
+commit e9e0fcc9934eabc0cdc3672539e78f98fafce113
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Mar 22 05:09:27 2023 -0700
+
+    8-jack_bauer
+
+commit 21614037d5fbd9085c13353d274835e4e1e07ada
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Wed Mar 22 05:07:28 2023 -0700
+
+    8-jack_bauer
+
+commit 78f74907e8f9fc6f2e5250a43dca16348b1389dd
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 21 16:34:05 2023 -0700
+
+    7- print_last_digit
+
+commit 357bc500bb6566de85a61f37e293f6ffb8d994f7
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 21 16:00:17 2023 -0700
+
+    int _abs(int)
+
+commit 330074fdd4f861610c177a4ce612ddee39869cc4
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 21 15:46:12 2023 -0700
+
+    : 5-print_sign
+
+commit 3de9e0d9e0ef58d8b83d0563419420027ec8338f
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 21 15:10:50 2023 -0700
+
+    4-isalpha.c
+
+commit d90e178cb608ae6c5a36580138a669ecd63d7426
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 21 14:47:03 2023 -0700
+
+    _islower
+
+commit 6e1ff8eb5b9781054c9b6cae3282a79c47726209
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 21 14:03:01 2023 -0700
+
+    2-print_alphabet_x10.c
+
+commit 7a033cf66cbea5832869359aef4e88e95e1f6293
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 21 14:00:32 2023 -0700
+
+    2-print_alphabet_x10.c
+
+commit bacd0bbe4d0b5cd5d62347b88b458446f514e81c
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 21 13:56:18 2023 -0700
+
+    2-print_alphabet_x10.c
+
+commit e87e515b82f017d7dfa075fb6b4cf1f45ca8b7f5
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 21 13:49:14 2023 -0700
+
+    2-print_alphabet_x10.c
+
+commit 67dc762b6a177b5448bf949488f40f81e8f28616
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 21 13:09:00 2023 -0700
+
+    alphabet
+
+commit ed00a63fbaafab296687a065ef242ce250f85b8a
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 21 12:58:09 2023 -0700
+
+    1-alphabet
+
+commit 2c98e3c355a955d100d0b8981887c118dbcb5f3f
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 21 08:29:33 2023 -0700
+
+     gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-alphabet.c -o 1-alphabet
+
+commit 4bf0423758b6e8612fe068624a0104c41644f536
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 21 08:19:15 2023 -0700
+
+    1-alphabet.c
+
+commit 91f94e5a720b4e3fbe9bc7042196d42b9eb83ab8
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 21 07:41:26 2023 -0700
+
+    0-putchar.c
+
+commit 265fe354c01d48166d053962b7e878c18ce425e9
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Tue Mar 21 07:04:11 2023 -0700
+
+    0-putchar.c
+
+commit f9ca122d62e9b0ced31642b6e6af9a2b78beb756
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Mar 20 11:01:31 2023 -0700
+
+    100-intel
+
+commit ea97d5755b279ad708dc7fe343eac471d1ab1653
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Mon Mar 20 10:51:19 2023 -0700
+
+    100-intel
+
+commit 8cab877bb210c0852e4684fa3a541a6b152eb9fd
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Mar 19 10:53:57 2023 -0700
+
+    9-print_comb.c
+
+commit ca5cac73c5c26aa3d41ebed3de6e51a4d9e788cd
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sun Mar 19 10:39:40 2023 -0700
+
+    9-print_comb.c
+
+commit 50079de6995580a9ae6cc0f087e697dae385b229
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sat Mar 18 15:04:03 2023 -0700
+
+    8-print_base16.c
+
+commit fdde40cf604ade4f6e0ee57bf493eeee7c8628c0
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sat Mar 18 09:11:32 2023 -0700
+
+    7-print_tebahpla.c
+
+commit 10a37d9aed8af788d0a557cc9ef43b20f0fd78bf
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sat Mar 18 08:57:43 2023 -0700
+
+    6-print_numberz.c
+
+commit 4846308e87ff0af87cf899e2de9ab5a299556f7c
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sat Mar 18 08:53:38 2023 -0700
+
+    6-print_numberz.c
+
+commit 22d73b6912f47fa00a4606a801c1dc31ef3ed23d
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sat Mar 18 08:45:28 2023 -0700
+
+    6-print_numberz.c
+
+commit e02083b2c37b5aee3190c48bb14dd9d2f2885e72
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sat Mar 18 04:45:12 2023 -0700
+
+    5-print_numbers.c
+
+commit 90b5ac2c31778355573471d815bebf9c769a30f3
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sat Mar 18 04:41:05 2023 -0700
+
+    5-print_numbers.c
+
+commit 6ad734b1c0e740a92b4f00e175f7a23638e3a881
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sat Mar 18 03:41:44 2023 -0700
+
+    4-print_alphabt.c
+
+commit 74a547232a2bb8f242ea067804617f7886dfebfe
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sat Mar 18 03:05:50 2023 -0700
+
+    4-print_alphabt.c
+
+commit fbd2af60f294b06bcba01381a4f5b5f95ce520be
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Sat Mar 18 01:41:40 2023 -0700
+
+    3-print_alphabets.c
+
+commit 8959c79f65fb94760ded6127d5e14607bf39c2f2
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Mar 17 14:12:40 2023 -0700
+
+    2-print_alphabet.c
+
+commit 9a24c8ecf12989d56440b932c7c7ad248d856a99
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Mar 17 12:23:57 2023 -0700
+
+    2-print_alphabets
+
+commit 62d0d01316738826e5ac4c01aa6f2cd86b0fcb40
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Mar 17 09:44:54 2023 -0700
+
+    1-last_digit.c
+
+commit a557a5bc7b5cdf00cc1a5b26be1a2862579b3369
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Mar 17 09:28:20 2023 -0700
+
+    1-last_digit.c
+
+commit 4675610bb1edaafafbdc3f18b295b237356235be
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Mar 17 09:19:53 2023 -0700
+
+    1-last_digit.c
+
+commit b981d16fff8538e8e9b453a01bbad20394263d28
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Fri Mar 17 06:04:37 2023 -0700
+
+    0-positive_or_negative.c
+
+commit 47abb5ceb1e0e948d75e38968863422b530cabe2
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 16 12:16:28 2023 -0700
+
+    6-size.c
+
+commit ec4ac102b1722830d47fc614dba647c1ff978534
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 16 10:58:35 2023 -0700
+
+    5-printf.c
+
+commit ebf2e09a11e0b362dbf31ca0dce8ee4e83c49d47
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 16 09:07:44 2023 -0700
+
+    5-printf.c
+
+commit bfd48710e8001b301b5e7d94d8d60e181aea92ae
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 16 08:55:49 2023 -0700
+
+    4-puts.c
+
+commit 2c813eec8757fbea81ed728e442791d0af42620a
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 16 08:50:13 2023 -0700
+
+    4-puts.c
+
+commit ad8bca170262504aa22c15def04ab43e827bd554
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 16 08:38:42 2023 -0700
+
+    4-puts.c
+
+commit c7676c2d54712ed3bb1b0c9fb98edbbd38dc8ae6
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 16 07:48:12 2023 -0700
+
+    3-name
+
+commit d49a7ee97e4b561e2a282e9a67c86bae908124e4
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 16 07:44:08 2023 -0700
+
+    2-assembler
+
+commit 8c34830e6e4ee5a81e0a7a85b57a63e28d408166
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 16 07:42:09 2023 -0700
+
+    2-assembler
+
+commit 2d1737a766075e1415ac0d84c8140de958f71fa5
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 16 07:35:44 2023 -0700
+
+    1-compiler
+
+commit 9469f9d3138a3596636b31f9d6a5af200ecdf0af
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 16 07:13:09 2023 -0700
+
+    0-preprocessor
+
+commit 2e18d26114f3ba7b6d0cac6db721f25841fb5d78
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 16 07:11:14 2023 -0700
+
+    0-preprocessor
+
+commit bea2f75f12882787720eb8a2a075d4b8ab18934d
+Author: Harrison Onuoha <harrisonchialuka@gmail.com>
+Date:   Thu Mar 16 06:55:18 2023 -0700
+
+    task 0
