@@ -16,11 +16,8 @@ int create_file(const char *filename, char *text_content)
 	char *str;
 	FILE *file;
 
-	if (filename == NULL)
-		return (-1);
-
 	file = fopen(filename, "w");
-	if (file == NULL)
+	if (filename == NULL || file == NULL)
 		return (-1);
 
 	str = text_content;
