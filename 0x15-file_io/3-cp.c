@@ -2,10 +2,12 @@
 #include <stdlib.h>
 #include <fcntl.h>
 #include <unistd.h>
+#include <sys/types.h>
+#include <sys/stat.h>
 
 
 int my_openr(const char *pathname, int flags);
-int my_openw(const char *pathname, int flags, mode_t mode);
+int my_openw(const char *pathname, int flags);
 
 #define BUFFER_SIZE 1024
 
@@ -24,7 +26,8 @@ int main(int argc, char *argv[])
 	const char *file_to;
 	char buffer[BUFFER_SIZE];
 	ssize_t bytes_read, bytes_written;
-	int fd_from, fd_to;
+	int fd_from, fd_to, file_exist;
+
 	/* Check the number of arguments*/
 	if (argc != 3)
 	{
@@ -40,8 +43,17 @@ int main(int argc, char *argv[])
 
 	fd_from = my_openr(file_from, O_RDONLY);
 
+	file_exist = access(file_to, F_OK);
+
+	if (file_exist != 0)
+	{
 	/*open file to write into*/
-	fd_to = my_openw(file_to, O_WRONLY | O_CREAT | O_TRUNC, 0644);
+		fd_to = my_openw(file_to, O_WRONLY | O_CREAT | O_TRUNC);
+		chmod(file_to, 0664);
+	}
+	else
+		fd_to = open(file_to, O_WRONLY | O_CREAT | O_TRUNC);
+
 
 	/* Copy the content from source to destination*/
 
@@ -117,17 +129,16 @@ int my_openr(const char *pathname, int flags)
  *my_openw - function to open a file for write
  *@pathname: path or name of file to be opened for writing
  *@flags: flags(mode) in which the file is opened with
- *@mode: permission set to the file
  *
  *Return: returns an integer value that represent the status of the function
  */
 
-int my_openw(const char *pathname, int flags, mode_t mode)
+int my_openw(const char *pathname, int flags)
 {
 	int fd_to;
 
 	/* Open the destination file for writing*/
-	fd_to = open(pathname, flags, mode);
+	fd_to = open(pathname, flags);
 	if (fd_to == -1)
 	{
 		dprintf(STDERR_FILENO, "Error: Can't write to %s\n", pathname);
