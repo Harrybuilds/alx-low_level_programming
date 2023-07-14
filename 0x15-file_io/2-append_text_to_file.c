@@ -10,22 +10,25 @@
 
 int append_text_to_file(const char *filename, char *text_content)
 {
-	size_t length, bytes_written;
-	FILE *file;
+	char *str;
+	FILE *file = fopen(filename, "r");
 
-	if (filename == NULL)
+	if (file == NULL || filename == NULL)
 		return (-1);
 
-	if (text_content == NULL)
+	if (text_content)
+	{
+		file = fopen(filename, "a");
+		str = text_content;
+		chmod(filename, 0664);
+
+		dprintf(fileno(file), "%s", str);
+
+		fclose(file);
 		return (1);
-
-	file = fopen(filename, "a");
-	if (file == NULL)
-		return (-1);
-
-	length = strlen(text_content);
-	bytes_written = fwrite(text_content, sizeof(char), length, file);
-	fclose(file);
-
-	return ((bytes_written == length) ? 1 : -1);
+	}
+	else
+	{
+	      return (-1);
+	}
 }
