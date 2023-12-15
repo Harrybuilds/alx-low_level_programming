@@ -1,22 +1,30 @@
 #include "main.h"
 
 /**
- * print_binary - function to convert decimal and print binary
+ *print_binary -function to printthe binary representation
+ *@n: the integer to be printed in binary
  *
- * @n: integer to be cobverted to binary
- *
- * Return: nothing is returned
+ *Return: no return value expected
  */
+
 void print_binary(unsigned long int n)
 {
-	/*recursively grab the remainer of dividing input by 2 */
-	long int rv;
+	int leading_zeros = 1;
+	unsigned long int mask = 1UL << (sizeof(unsigned long int) * 8 - 1);
 
 	if (n == 0)
+	{
+		printf("0");
 		return;
+	}
 
-	rv = n % 2;
-	n = n / 2;
-	print_binary(n);
-	_putchar(rv);
+	while (mask > 0)
+	{
+		if (n & mask)
+			leading_zeros = 0;
+		if (!leading_zeros)
+			printf("%d", (n & mask) ? 1 : 0);
+		mask >>= 1;
+	}
+
 }
