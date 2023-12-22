@@ -62,11 +62,12 @@ const char *getOsAbi(uint8_t e_ident)
 */
 void printBasicElfInfo(ElfHeader header)
 {
+	int i;
 	char *Data =  header.e_ident[5] == 1 ? "little endian" : "big endian";
 
 	printf("ELF Header:\n");
 	printf("  Magic:   ");
-	for (int i = 0; i < 16; ++i)
+	for (i = 0; i < 16; ++i)
 	{
 		printf("%02x ", header.e_ident[i]);
 	}
@@ -77,7 +78,7 @@ void printBasicElfInfo(ElfHeader header)
 	printf("  OS/ABI:                 %s\n", getOsAbi(header.e_ident[7]));
 	printf("  ABI Version:            %u\n", header.e_ident[8]);
 	printf("  Type:                   %s\n", getElfType(header.e_type));
-	printf("  Entry point address:    0x%llx\n", header.e_entry);
+	printf("  Entry point address:    0x%lx\n", header.e_entry);
 }
 
 
@@ -91,6 +92,7 @@ int main(int argc, char *argv[])
 {
 	char *not = "Error: Not an ELF file ";
 	char *elf = "- it has the wrong magic bytes at the start\n";
+	const char *filename = argv[1];
 	FILE *file;
 	ElfHeader elfHeader;
 
@@ -99,7 +101,6 @@ int main(int argc, char *argv[])
 		dprintf(STDERR_FILENO, "%s\n", "Usage: elf_header elf_filename");
 		exit(98);
 	}
-	const char *filename = argv[1];
 
 	file = fopen(filename, "rb");
 	if (file == NULL)
