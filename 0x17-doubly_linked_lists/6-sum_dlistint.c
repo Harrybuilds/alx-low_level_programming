@@ -1,6 +1,6 @@
 #include "lists.h"
 /**
- * sum_dlistint : function to get sum of nodes in the list
+ * sum_dlistint - function to get sum of nodes in the list
  * @head: start point of the list
  * Return: sum of all nodes in the list
  */
