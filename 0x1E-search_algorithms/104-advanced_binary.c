@@ -20,6 +20,7 @@ void print_array(int *array, size_t left, size_t right)
 	printf("\n");
 }
 
+
 /**
  * recursive_advanced_binary - Helper function to perform binary search
  * @array: Pointer to the first element of the array to search in
